@@ -1,4 +1,3 @@
-package des;
 /**
  * Michael Knatz
  * DES.java
